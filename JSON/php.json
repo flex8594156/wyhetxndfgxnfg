@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+
+    "database": "erp",
+
+    "username": "root",
+
+    "password": ""
+}
